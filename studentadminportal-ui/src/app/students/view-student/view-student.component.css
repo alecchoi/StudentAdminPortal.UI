@@ -1,0 +1,10 @@
+.top-row{
+  padding: 1em 0;
+}
+
+/* this matform field crap does not work */
+.mat-form-field{
+  width: 100%;
+}
+
+
